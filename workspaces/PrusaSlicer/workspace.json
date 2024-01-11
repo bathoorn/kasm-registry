@@ -1,0 +1,18 @@
+{
+    "description": "Prusa Slicer is an open-source, feature-rich, frequently updated tool that contains everything you need to export the perfect print files for your 3D printer.",
+    "docker_registry": "ghcr.io",
+    "name": "ghcr.io/bathoorn/kasm-prusaslicer:latest",
+    "image_src": "prusaSlicer.png",
+    "categories": [
+      "Productivity"
+    ],
+    "friendly_name": "Prusa Slicer",
+    "architecture": [
+      "amd64"
+    ],
+    "compatibility": [
+      "1.13.x",
+      "1.14.x"
+    ],
+    "uncompressed_size_mb": 3450
+  }
